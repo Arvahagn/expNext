@@ -1,0 +1,23 @@
+[
+    {
+        "id": 101, 
+        "title": "JS Proffesional", 
+        "author":"A. Marjinyan", 
+        "price": 15000,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDF4a1AW8Fw490XJOymVP_BhK4rcKc8zZxg&s"
+    },
+    {
+        "id": 102, 
+        "title": "JavaScript", 
+        "author":"D. Flanagan", 
+        "price": 8000,
+        "photo": "https://m.media-amazon.com/images/I/91xorHXzWbL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 103, 
+        "title": "You dont know JS, Scope and Closures", 
+        "author":"Kyle Simpson", 
+        "price": 1000,
+        "photo": "https://m.media-amazon.com/images/I/81zWsOMWE4L._AC_UF1000,1000_QL80_.jpg"
+    }
+]
